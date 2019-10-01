@@ -7,3 +7,9 @@ ctrl + `
 
 -> node src/server.js
 Para executar servidor, abrir em localhosta:3333
+
+-> yarn add nodemon -D
+Para atualizar automaticamente o servidor ao salvar.
+-D indica que é uma dependencia apenas de desenvolvimento.
+
+-> 
