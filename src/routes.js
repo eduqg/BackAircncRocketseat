@@ -10,6 +10,6 @@ const routes = express.Router();
 // req.body = Acessar corpo da requição (para criação, edição)
 
 // POST http://localhost:3333/users
-routes.post('/users', SessionController.store);
+routes.post('/sessions', SessionController.store);
 
 module.exports = routes;
