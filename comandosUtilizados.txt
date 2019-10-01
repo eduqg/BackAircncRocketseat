@@ -22,4 +22,11 @@ http://localhost:3333/users?idade=20
 - Route params
 http://localhost:3333/users/1
 
+-> yarn add mongoose
+Ferramenta que facilita a interação com mongodb
+
+-> Acessar http://portquiz.net:27017/
+Para saber se minha conexão está por traz de um proxy.
+Se aparecer uma mensagem de texto sem erros, está ok minha conexão.
+
 -> 
