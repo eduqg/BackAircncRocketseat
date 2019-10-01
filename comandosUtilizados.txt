@@ -29,4 +29,5 @@ Ferramenta que facilita a interação com mongodb
 Para saber se minha conexão está por traz de um proxy.
 Se aparecer uma mensagem de texto sem erros, está ok minha conexão.
 
--> 
+-> yarn add multer
+Lib para upload de multiparts. Imagens, arquivos, audios
