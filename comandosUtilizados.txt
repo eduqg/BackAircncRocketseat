@@ -5,4 +5,5 @@ Caso comando code . não esteja disponível
 Toggle integrated terminal
 ctrl + `
 
--> 
+-> node src/server.js
+Para executar servidor, abrir em localhosta:3333
