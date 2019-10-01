@@ -1,2 +1,8 @@
 -> ctrl + shift + p, install code, install code command path
 Caso comando code . não esteja disponível
+
+-> ctrl + shift + p, toogle
+Toggle integrated terminal
+ctrl + `
+
+-> 
