@@ -1,5 +1,6 @@
 const express = require('express');
 const SessionController = require('./controllers/SessionController');
+const SpotController = require('./controllers/SpotController');
 
 const routes = express.Router();
 
@@ -11,5 +12,6 @@ const routes = express.Router();
 
 // POST http://localhost:3333/users
 routes.post('/sessions', SessionController.store);
+routes.post('/spots', SpotController.store);
 
 module.exports = routes;
