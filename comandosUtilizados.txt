@@ -31,3 +31,5 @@ Se aparecer uma mensagem de texto sem erros, está ok minha conexão.
 
 -> yarn add multer
 Lib para upload de multiparts. Imagens, arquivos, audios
+
+-> yarn add socket.io
